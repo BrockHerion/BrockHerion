@@ -33,7 +33,14 @@
 - I'm digging deeper into the internals of Next.JS and learning how to build applications with little to no backend code
 - Rust to build tooling and eventually WASM apps
 - Design patterns to build more robust, scalable software
-- Interested in Swift, Go, and Elixir
+
+### Interested in
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="35" height="35" />
+</p>
 
 ## Connect with me 📱
 
