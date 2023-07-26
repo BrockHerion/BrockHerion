@@ -6,13 +6,17 @@
 
 - I'm a full stack developer from the Chicago area 👨‍💻
 - I graduated college in May of 2021 with a Bachelor in Computer Science and a minor in Mathematics 📜
-- I've been working as a developer and freelancing for about three years ⚙️
-- I am engaged and am getting married in June of 2022 💍
+- I've been working as a developer and freelancing for about four years ⚙️
 - I love traveling and seeing the world 🌍
 - I'm an avid reader and writer 📚
 - I'm a proud cat dad 🐈
 - Pronouns are he/him 😄
-- I have a softsoft for science-fiction and fantasy, specifically Star Wars and Dune
+- I have a softsoft for science-fiction and fantasy, specifically Star Wars and Dune 🪐
+
+## I'm currently working on 🔭
+
+- Updating the styling and layout of my blog
+- An application for running and managing background jobs for Next.js apps
 
 ### My current stack for building applications is
 
@@ -24,6 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="55" height="v" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" />
+
 </p>
 
 #### I also use (or have used)
@@ -31,19 +37,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
 </p>
-
-## I’m currently learning 🌱
-
-- I'm digging deeper into the internals of Next.JS and learning how to build applications with little to no backend code
-- I'm learning more about `useMemo` and `useCallback` hooks in React to build more performant applications
-- I'm experimenting with Rust to build tooling and, eventually, WASM apps
-- Design patterns to build more robust, scalable software
 
 ### I have an interest in learning and using
 <p align="left">
